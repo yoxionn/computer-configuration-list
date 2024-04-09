@@ -3,35 +3,27 @@
 #### 介绍
 电脑配置清单
 
-#### 软件架构
-软件架构说明
+#### 说明
 
+* 核心配件
 
-#### 安装教程
+        CPU、主板、显卡、内存、硬盘、散热器、电源、机箱、风扇
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+* 其他配件
 
-#### 使用说明
+        显示器、键盘、鼠标、耳机、音箱、摄像头、麦克风、电源线、显示器线、音频线、网线、无线网卡、蓝牙适配器、扩展坞、电源适配器、电源插座、插线板...
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### 测试内容
 
-#### 参与贡献
+1.  鲁大师跑分
+2.  CPU温度
+3.  显卡温度
+4.  满载噪音
+5.  灯光效果
+6.  无线信号
+7.  简评总结
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+#### 其他说明
 
+数据为实验室环境测试，实际将受多因素影响，仅供参考。
 
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
